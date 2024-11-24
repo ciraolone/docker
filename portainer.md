@@ -18,7 +18,7 @@ Portainer ha bisogno di un volume per gestire i propri dati:
 
 Dopodiche eseguiamo Portainer con il seguente comando:
 
-`docker run --name portainer --restart unless-stopped -v /etc/localtime:/etc/localtime:ro -v /var/run/docker.sock:/var/run/docker.sock:ro -v portainer_data:/data -p 9000:9000 portainer/portainer-ce:latest`
+`docker run --name portainer --restart unless-stopped -v /etc/localtime:/etc/localtime:ro -v /var/run/docker.sock:/var/run/docker.sock:ro -v portainer_data:/data -p 9000:9000 -d portainer/portainer-ce:latest`
 
 ## Accesso
 

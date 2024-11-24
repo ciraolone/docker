@@ -8,3 +8,5 @@ Installazione Docker:
 - Linux https://docs.docker.com/desktop/setup/install/linux/
 
 Installazione di [Portainer](portainer.md)
+
+Installazione di [ownCloud](owncloud.md)
