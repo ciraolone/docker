@@ -2,11 +2,13 @@
 
 Repository del Video MiniPC Docker con Ciraolo
 
-Installazione Docker: 
-- Windows https://docs.docker.com/desktop/setup/install/windows-install/
-- Mac https://docs.docker.com/desktop/setup/install/mac-install/
-- Linux https://docs.docker.com/desktop/setup/install/linux/
+1. Installazione Docker: 
+   - Windows https://docs.docker.com/desktop/setup/install/windows-install/
+   - Mac https://docs.docker.com/desktop/setup/install/mac-install/
+   - Linux https://docs.docker.com/desktop/setup/install/linux/
 
-Installazione di [Portainer](portainer.md)
+2. Installazione di [Portainer](portainer.md)
 
-Installazione di [ownCloud](owncloud.md)
+3. Installazione di [ownCloud](owncloud.md)
+
+4. Installazione di [Nodemation](nodemation.md)
