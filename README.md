@@ -12,3 +12,5 @@ Repository del Video MiniPC Docker con Ciraolo
 3. Installazione di [ownCloud](owncloud.md)
 
 4. Installazione di [Nodemation](nodemation.md)
+
+5. Installazione di [Plex](plex.md)

@@ -13,7 +13,7 @@ l'integrazione con altri servizi e applicazioni.
 
 ## Stack
 
-```
+```yaml
 volumes:
   files:
     driver: local

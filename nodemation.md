@@ -18,7 +18,7 @@ complesse.
 
 ## Stack
 
-```
+```yaml
 volumes:
   data:
     driver: local
