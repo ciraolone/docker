@@ -14,3 +14,5 @@ Repository del Video MiniPC Docker con Ciraolo
 4. Installazione di [Nodemation](nodemation.md)
 
 5. Installazione di [Plex](plex.md)
+
+5. Installazione del [Reverse Proxy](reverse-proxy.md)
