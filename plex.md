@@ -28,7 +28,7 @@ volumes:
 
 services:
   plex:
-    image: plexinc/pms-docker
+    image: plexinc/pms-docker:1.41.2.9200-c6bbc1b53
     container_name: plex
     hostname: plex
     restart: unless-stopped
@@ -36,6 +36,7 @@ services:
       - TZ=Europe/Rome
       - HOSTNAME=plexserver
       - PLEX_CLAIM=XXX
+#      - ADVERTISE_IP=http://host.tld:32400/
     volumes:
       - config:/config
       - XXX:/data

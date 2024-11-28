@@ -25,7 +25,7 @@ volumes:
 
 services:
   nodemation:
-    image: n8nio/n8n
+    image: n8nio/n8n:1.69.2
     container_name: nodemation
     hostname: nodemation
     restart: unless-stopped
