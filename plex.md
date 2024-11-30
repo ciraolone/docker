@@ -34,9 +34,8 @@ services:
     restart: unless-stopped
     environment:
       - TZ=Europe/Rome
-      - HOSTNAME=plexserver
+      - HOSTNAME=plex
       - PLEX_CLAIM=XXX
-#      - ADVERTISE_IP=http://host.tld:32400/
     volumes:
       - config:/config
       - XXX:/data
