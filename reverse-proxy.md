@@ -98,7 +98,7 @@ abbiamo generato precedentemente, flagghiamo
 `Force SSL` e `HTTP/2 Support`.
 
 Torniamo poi in portainer e andiamo a modificare
-lo `Stack` di Plex, aggiungendo all'inizio:
+lo `Stack` di Nodemation, aggiungendo all'inizio:
 
 ```yaml
 networks:
